@@ -25,7 +25,10 @@ some platforms about DNA data storage
 简介：由新加坡国立大学的本科生研究项目开发，分析和模拟纳米孔 DNA 的误差特征。
 特点：适用于研究纳米孔测序的误差特
 链接：https://github.com/mkeoliya/dna_storage_simulator
-7.相关
+7.Chamaeleo
+简介：对 DNA存储系统的编码、解码和错误建模的支持
+链接：https://github.com/ntpz870817/Chamaeleo
+8.相关
 DNA Storage Error Simulator
 简介：模拟 DNA 存储过程中的合成、存储、扩增和测序等阶段的误差。
 文章：https://arxiv.org/abs/2205.14437
