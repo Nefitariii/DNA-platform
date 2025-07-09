@@ -28,6 +28,12 @@ some platforms about DNA data storage
 7.Chamaeleo
 简介：对 DNA存储系统的编码、解码和错误建模的支持
 链接：https://github.com/ntpz870817/Chamaeleo
+8.Storage-D
+简介：提供了一个通用框架，支持多种 DNA 数据存储算法
+链接：https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.168
+9.DNA Storage Toolkit
+简介：端到端 DNA 数据存储工具包
+链接：https://github.com/DNAStorageToolkit/DNAStorageToolkit
 8.相关
 DNA Storage Error Simulator
 简介：模拟 DNA 存储过程中的合成、存储、扩增和测序等阶段的误差。
