@@ -39,3 +39,5 @@ some platforms about DNA data storage
 DNA Storage Error Simulator
 简介：模拟 DNA 存储过程中的合成、存储、扩增和测序等阶段的误差。
 文章：https://arxiv.org/abs/2205.14437
+9.以色列
+https://github.com/oyerush/DNASimulator
