@@ -11,7 +11,7 @@ some platforms about DNA data storage
 3.FrameD
 简介：由 FrameD 团队开发的 DNA 存储系统设计与验证框架，支持编码、解码和文件操作的建模。
 特点：模块化设计，适用于系统级仿真和验证。
-链接：
+链接：https://github.com/dna-storage/framed
 文章：https://pmc.ncbi.nlm.nih.gov/articles/PMC10563143
 4.Deep-DNA-based-storage
 简介：基于深度学习和编码理论的 DNA 存储系统，支持大规模和鲁棒性的 DNA 存储。
@@ -30,7 +30,8 @@ some platforms about DNA data storage
 链接：https://github.com/ntpz870817/Chamaeleo
 8.Storage-D
 简介：提供了一个通用框架，支持多种 DNA 数据存储算法
-链接：https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.168
+链接：https://github.com/DNAstorage-iSynBio/Storage-D/
+文章：https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.168
 9.DNA Storage Toolkit
 简介：端到端 DNA 数据存储工具包
 链接：https://github.com/DNAStorageToolkit/DNAStorageToolkit
